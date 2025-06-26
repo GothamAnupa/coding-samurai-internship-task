@@ -1,0 +1,17 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment folder
+venv/
+env/
+
+# Environment variable files
+.env
+
+# Mac and Linux system files
+.DS_Store
+
+# Jupyter notebook checkpoints (if you use .ipynb later)
+.ipynb_checkpoints/

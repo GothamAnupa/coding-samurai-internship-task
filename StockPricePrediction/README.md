@@ -35,17 +35,13 @@ StockPricePrediction/
     ```bash
     pip install -r requirements.txt
     ```
-
 2. Run the notebook:
     ```bash
     jupyter notebook stock_predictor.ipynb
     ```
-
 3. Check `plots/prediction.png` for visual results
 
----
-
-Feel free to enhance this with:
+---Feel free to enhance this with:
 - More lag features (e.g., t-2, t-3)
 - Moving averages
 - Neural Networks (MLP or LSTM)
